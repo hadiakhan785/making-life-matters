@@ -1,0 +1,20 @@
+header {
+    background-image: url('mlm-exhibiton.jpg');
+    background-position: bottom;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar {
+    background-color: rgba(231, 0, 0, 0.7);
+    color: black;
+    font-weight: bold;
+}
+
+.logo {
+    font-size: 2em;
+}
+
+.navbar a {
+    color: black;
+}
