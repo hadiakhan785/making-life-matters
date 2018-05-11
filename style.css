@@ -85,4 +85,12 @@ hr {
     margin-top: 4em;
 }
 
+.organisers-detail {
+    overflow: auto;
+}
+
+.organisers-detail img {
+    float: right;
+}
+
 
