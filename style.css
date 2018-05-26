@@ -118,6 +118,14 @@ hr {
     justify-content: space-between;
 }
 
+#navbar-example2 {
+    position: fixed;
+}
+
+.card > img {
+    height: 200px;
+}
+
 .contact-section {
     -webkit-box-shadow: 0px 0px 5px 0px rgba(199,179,199,1);
     -moz-box-shadow: 0px 0px 5px 0px rgba(199,179,199,1);
@@ -162,4 +170,14 @@ button:hover a {
     outline: none;
 }
 
+@media screen and (max-width: 550px) {
+    header .intro {
+        padding-top: 150px;
+    }
+}
 
+@media screen and (max-width: 600px) {
+    .products .card {
+       width:100%;
+    }
+}
