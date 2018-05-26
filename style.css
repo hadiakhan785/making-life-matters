@@ -69,7 +69,7 @@ article h4, h5, h6{
 
 .organisers {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
     padding: 1em;
 
